@@ -7,9 +7,9 @@ missions:
     end: 2024-12-31
     status: admin
     startups:
-      - mes.aides
+      - mes-aides-pole-emploi
       - travailler.en.france
 startups:
-  - mes.aides
+  - mes-aides-pole-emploi
   - travailler.en.france
 ---
